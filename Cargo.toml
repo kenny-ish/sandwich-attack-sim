@@ -1,0 +1,8 @@
+[package]
+name = "sandwich-attack-sim"
+version = "0.1.0"
+edition = "2021"
+description = "Constant-product sandwich attack simulator"
+license = "MIT"
+
+[dependencies]
